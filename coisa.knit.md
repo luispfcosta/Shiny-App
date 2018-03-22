@@ -2,7 +2,7 @@
 title: "coisa"
 output:
   pdf_document: default
-  html_document: default
+  rmarkdown::github_document
 ---
 
 
