@@ -5,7 +5,7 @@ output:
   rmarkdown::github_document
 ---
 
-
+$$\frac{1}{2}$$
 
 
 ```r
